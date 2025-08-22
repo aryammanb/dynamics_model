@@ -1,8 +1,7 @@
-# Dynamics and Modelling
-Simulation Model
+The ReadMe.pdf file contains the documentation and instructions to use the model.
 
->This document is a work in progress
->
->The folder containing the relevant project/scripts/slx model/etc is cubesat_dynamics_model. Use the ReadMe.pdf file and follow the instructions to use the model for your purposes.
->
->The live documentation is available at https://docs.google.com/presentation/d/1pyqwRIfTjIuB6v6o_5421BrMkIx-A20Wx4qCabb4DXg/edit?usp=sharing
+This is part of work I did as a member of Student Satellite Programme, IIT Bombay.
+
+It is a 6DOF Nanosatellite Dynamics Simulation model which I built in simulink from scratch.
+
+It also contains additional features such as calculating the solar vector, magnetic field vector, etc. with respect to the satellite so that teams building an estimator could evaluate their model.
